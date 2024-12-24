@@ -76,7 +76,7 @@
       },
       "peerDependencies": {
         "@ant-design/icons": ">=5",
-        "antd": ">=5",
+        "antd": ">=5.11.0",
         "dayjs": ">=1",
         "react": ">=18",
         "react-querybuilder": "packages/react-querybuilder",
@@ -1623,7 +1623,7 @@
 
     "@react-native/virtualized-lists": ["@react-native/virtualized-lists@0.76.5", "", { "dependencies": { "invariant": "^2.2.4", "nullthrows": "^1.1.1" }, "peerDependencies": { "@types/react": "^18.2.6", "react": "*", "react-native": "*" }, "optionalPeers": ["@types/react"] }, "sha512-M/fW1fTwxrHbcx0OiVOIxzG6rKC0j9cR9Csf80o77y1Xry0yrNPpAlf8D1ev3LvHsiAUiRNFlauoPtodrs2J1A=="],
 
-    "@react-querybuilder/antd": ["@react-querybuilder/antd@workspace:packages/antd", { "devDependencies": { "@ant-design/icons": "^5.5.2", "@testing-library/dom": "^10.4.0", "@testing-library/react": "^16.1.0", "@types/react": "^18.3.12", "@vitejs/plugin-react": "^4.3.4", "antd": "^5.22.6", "dayjs": "^1.11.13", "react": "^18.3.1", "react-dom": "^18.3.1", "react-querybuilder": "packages/react-querybuilder", "rollup-plugin-visualizer": "^5.12.0", "typescript": "^5.7.2", "vite": "^5.4.11" }, "peerDependencies": { "@ant-design/icons": ">=5", "antd": ">=5", "dayjs": ">=1", "react": ">=18", "react-querybuilder": "packages/react-querybuilder" } }],
+    "@react-querybuilder/antd": ["@react-querybuilder/antd@workspace:packages/antd", { "devDependencies": { "@ant-design/icons": "^5.5.2", "@testing-library/dom": "^10.4.0", "@testing-library/react": "^16.1.0", "@types/react": "^18.3.12", "@vitejs/plugin-react": "^4.3.4", "antd": "^5.22.6", "dayjs": "^1.11.13", "react": "^18.3.1", "react-dom": "^18.3.1", "react-querybuilder": "packages/react-querybuilder", "rollup-plugin-visualizer": "^5.12.0", "typescript": "^5.7.2", "vite": "^5.4.11" }, "peerDependencies": { "@ant-design/icons": ">=5", "antd": ">=5.11.0", "dayjs": ">=1", "react": ">=18", "react-querybuilder": "packages/react-querybuilder" } }],
 
     "@react-querybuilder/bootstrap": ["@react-querybuilder/bootstrap@workspace:packages/bootstrap", { "devDependencies": { "@popperjs/core": "^2.11.8", "@testing-library/dom": "^10.4.0", "@testing-library/react": "^16.1.0", "@types/react": "^18.3.12", "@vitejs/plugin-react": "^4.3.4", "bootstrap": "^5.3.3", "bootstrap-icons": "^1.11.3", "react": "^18.3.1", "react-dom": "^18.3.1", "react-querybuilder": "packages/react-querybuilder", "rollup-plugin-visualizer": "^5.12.0", "typescript": "^5.7.2", "vite": "^5.4.11" }, "peerDependencies": { "bootstrap": ">=5", "bootstrap-icons": ">=1.7.0", "react": ">=18", "react-querybuilder": "packages/react-querybuilder" } }],
 
